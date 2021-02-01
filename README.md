@@ -11,7 +11,6 @@ Rebecca Yang
 
 
 
-
 # Objective
 
 The objective is to demonstrate how create a cross stitch pattern from
@@ -276,9 +275,7 @@ Without background color
 
 </div>
 
-``` r
-ggsave("background.png")
-```
+
 
 A word of caution on this: Sometimes the background color is used in the
 actual image. In this case, we can see that Harry is missing some of his
