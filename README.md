@@ -165,7 +165,8 @@ scree_plot(cluster_info)
 
 <div class="figure" style="text-align: center">
 
-<img src="Vignette_files/figure-gfm/unnamed-chunk-6-1.pdf" alt="Scree Plot" width="70%" />
+<img width="681" alt="Screen Shot 2021-01-31 at 11 05 38 PM" src="https://user-images.githubusercontent.com/71096169/106413888-391b9100-6419-11eb-9210-082c6b91e0cc.png">
+
 
 <p class="caption">
 
@@ -184,7 +185,8 @@ color_strips(cluster_info)
 
 <div class="figure" style="text-align: center">
 
-<img src="Vignette_files/figure-gfm/unnamed-chunk-7-1.pdf" alt="Color Strips for Each Clustering" width="80%" />
+<img width="752" alt="Screen Shot 2021-01-31 at 11 05 46 PM" src="https://user-images.githubusercontent.com/71096169/106413889-391b9100-6419-11eb-904e-3d7395137f72.png">
+
 
 <p class="caption">
 
@@ -222,7 +224,8 @@ make_pattern(cluster_info, k = 8, x_size = 40)
 
 <div class="figure" style="text-align: center">
 
-<img src="Vignette_files/figure-gfm/unnamed-chunk-8-1.pdf" alt="Default pattern"  />
+<img width="493" alt="Screen Shot 2021-01-31 at 11 07 32 PM" src="https://user-images.githubusercontent.com/71096169/106413890-391b9100-6419-11eb-960a-578fe798b75e.png">
+
 
 <p class="caption">
 
@@ -243,7 +246,8 @@ make_pattern(cluster_info, k = 8, x_size = 40, black_white = TRUE)
 
 <div class="figure" style="text-align: center">
 
-<img src="Vignette_files/figure-gfm/unnamed-chunk-9-1.pdf" alt="Black and white pattern"  />
+<img width="490" alt="Screen Shot 2021-01-31 at 11 07 36 PM" src="https://user-images.githubusercontent.com/71096169/106413891-39b42780-6419-11eb-9972-0f014811f69a.png">
+
 
 <p class="caption">
 
@@ -265,7 +269,8 @@ make_pattern(cluster_info, k = 8, x_size = 40, background_color = "#F5ECCB")
 
 <div class="figure" style="text-align: center">
 
-<img src="Vignette_files/figure-gfm/unnamed-chunk-10-1.pdf" alt="Without background color"  />
+<img width="484" alt="Screen Shot 2021-01-31 at 11 07 41 PM" src="https://user-images.githubusercontent.com/71096169/106413893-39b42780-6419-11eb-839d-082f0ea20f38.png">
+
 
 <p class="caption">
 
