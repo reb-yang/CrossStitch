@@ -167,6 +167,7 @@ color_strips <- function(cluster_info){
 
 
 # function to change resolution of image
+# this function was supplied by Dan Simpson as part of Assignment 2 for STA314
 change_resolution <- function(image_df, x_size)
 {
   ## change_resolution(image_df, x_size) subsamples an image to produce
