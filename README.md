@@ -293,3 +293,5 @@ ourselves when using it.
 Sometimes the pattern may have less colors than what was specified. This
 is because the resolution of the image is reduced in order to make the
 pattern, so insignificant colors may be lost in this process.
+
+The `change_resolution` function in `functions.R` was written by Dan Simpson, and given as part of Assignment 1 for STA314. 
